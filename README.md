@@ -52,5 +52,5 @@
  ```  
  16. Enter your github id and password  
  17. Go to your github account and then move to the repository (introduce-yourself)  
- 18. Click on **new pull request** and then click on **create pull request**  
+ 18. Click on **new pull request** then click on **create pull request** and then add the title or leave as it is and click on **create pull request**    
  19. That's all, you have done your first commit on github.
